@@ -21,9 +21,10 @@ const Page = () => {
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         p={3}
         mb={6}
+        mt={2}
         align="center"
       >
-        Hello, Tchitdjian Lucas a front-end developer based in France
+        Hello, I am Tchitdjian Lucas a front-end developer based in France
       </Box>
       <Box display={{ md: 'flex' }}>
         <Box flexgrow={1}>
