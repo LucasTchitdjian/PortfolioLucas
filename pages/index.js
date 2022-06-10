@@ -79,6 +79,16 @@ const Page = () => {
           <BioYear>1999</BioYear>
           Born in Marseille, France.
         </BioSection>
+        <BioSection>
+          <BioYear>2017</BioYear>
+          Completed BTS in Jean Perrin, Marseille
+        </BioSection>
+      </Section>
+      <Section delay={0.3}>
+        <Heading as="h3" variant="section-title">
+          I ❤️
+        </Heading>
+        <Paragraph>Movies, Music</Paragraph>
       </Section>
     </Container>
   )
